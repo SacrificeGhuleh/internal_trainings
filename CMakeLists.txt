@@ -9,4 +9,4 @@ set(COMMON_LIB_PATH ${CMAKE_CURRENT_LIST_DIR}/common CACHE PATH "Path to common 
 
 include_directories(${COMMON_LIB_PATH})
 add_subdirectory(unions-training)
-add_subdirectory(templates_training)
+add_subdirectory(templates-training)

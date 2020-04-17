@@ -1,3 +1,6 @@
-[submodule "unions_training"]
-	path = unions_training
+[submodule "unions-training"]
+	path = unions-training
 	url = https://github.com/SacrificeGhuleh/unions-training.git
+[submodule "templates-training"]
+	path = templates-training
+	url = https://github.com/SacrificeGhuleh/templates_training.git
