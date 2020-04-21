@@ -1,9 +1,7 @@
 
 #if __cplusplus < 201103L
 #include <cstdlib>
-#include <ctime>
 
-//srand(time(NULL));
 #else
 #include <random>
 #include <functional>
