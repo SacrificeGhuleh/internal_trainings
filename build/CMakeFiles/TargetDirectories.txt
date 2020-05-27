@@ -1,0 +1,13 @@
+C:/Dev/cpp/CLionProjects/internal_trainings/build/CMakeFiles/ALL_BUILD.dir
+C:/Dev/cpp/CLionProjects/internal_trainings/build/CMakeFiles/ZERO_CHECK.dir
+C:/Dev/cpp/CLionProjects/internal_trainings/build/unions-training/CMakeFiles/unions_example01.dir
+C:/Dev/cpp/CLionProjects/internal_trainings/build/unions-training/CMakeFiles/unions_example02.dir
+C:/Dev/cpp/CLionProjects/internal_trainings/build/unions-training/CMakeFiles/unions_example03.dir
+C:/Dev/cpp/CLionProjects/internal_trainings/build/unions-training/CMakeFiles/ALL_BUILD.dir
+C:/Dev/cpp/CLionProjects/internal_trainings/build/unions-training/common/CMakeFiles/ALL_BUILD.dir
+C:/Dev/cpp/CLionProjects/internal_trainings/build/templates-training/CMakeFiles/ALL_BUILD.dir
+C:/Dev/cpp/CLionProjects/internal_trainings/build/templates-training/legacy/CMakeFiles/templates_98_example01.dir
+C:/Dev/cpp/CLionProjects/internal_trainings/build/templates-training/legacy/CMakeFiles/templates_98_example02.dir
+C:/Dev/cpp/CLionProjects/internal_trainings/build/templates-training/legacy/CMakeFiles/ALL_BUILD.dir
+C:/Dev/cpp/CLionProjects/internal_trainings/build/templates-training/modern/CMakeFiles/templates_17_example01.dir
+C:/Dev/cpp/CLionProjects/internal_trainings/build/templates-training/modern/CMakeFiles/ALL_BUILD.dir
